@@ -1,0 +1,113 @@
+@font-face {
+  font-family:Raleway;
+  src: "https://fonts.google.com/specimen/Raleway"(sansation_light.woff);
+}
+ul {
+  line-height: 250%
+}
+.Title-Heading{
+  text-align: center;
+  font-style:
+}
+.Title {
+  text-align: center;
+  font-family: CourierNew;
+  font-weight: bolder;
+}
+.Main-Heading
+{
+  text-align: center;
+  Font-family: Cinzel;
+
+}
+.centered{
+  text-align: center;
+}
+body{
+  height: 100%;
+  background-color: #b4c7db;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+.Border-right-TB{
+ border-style: groove;
+  border-right: 100%;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  height:100%;
+  border-color: black;
+  Display: block;
+ background-image: linear-gradient(to right,#b4c7db  , #bfd9f5);
+}
+.Border-left-TB{
+ border-style: groove;
+  border-right: none;
+  border-top: none;
+  border-left: 100;
+  border-bottom: none;
+  height:100%;
+  border-color: black;
+ background-image: linear-gradient(to left,#b4c7db  , #bfd9f5);
+
+
+
+}
+
+.background-1{
+  background-color: #b4c7db;
+}
+.background-2{
+  background-color: #bfd9f5;
+}
+.left{
+  text-align: left;
+}
+.right{
+  text-align: right;
+}
+hr {
+  color: red;
+
+}
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+  font-family :Garamond serif;
+}
+
+a:link {
+  color: #0062ff;
+}
+
+a:visited {
+  color: #5500ff;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: #BAE498;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #00bbff;
+}
+
+a:active {
+  background: #265301;
+  color: #CDFEAA;
+}
+.end {
+  background-color: #b4c7db;
+  background-size: 1000px 1000px
+}
+.Fun-Fact {
+  font-family: Times-New-Roman, italic;
+}
+.main {
+  font-family: FaunaOne;
+}
